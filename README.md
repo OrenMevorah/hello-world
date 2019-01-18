@@ -1,2 +1,3 @@
 # hello-world
-Trial an error is the best way to succeed. 
+
+hi world, it's me, Oren.
